@@ -57,3 +57,4 @@
 *://svpressa.ru/*
 *://ura.news/*
 *://chechnyatoday.com/*
+*://life.ru/*
