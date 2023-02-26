@@ -59,3 +59,5 @@ ura.news
 chechnyatoday.com
 life.ru
 voenhronika.ru
+fedpress.ru
+ridus.ru
