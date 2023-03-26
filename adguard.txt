@@ -63,3 +63,4 @@
 ||ridus.ru^
 ||dzen.ru^
 ||rubaltic.ru^
+||sputniknews.ru^
