@@ -76,3 +76,5 @@
 ||politconservatism.ru^
 ||russkiymir.ru^
 ||vseruss.com^
+||r24.news^
+||russia24h.ru^
