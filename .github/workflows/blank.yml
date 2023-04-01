@@ -30,7 +30,7 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           message: "Updated adguard.txt"
-          add: file1.txt
+          add: adguard.txt
           author_name: "GitHub Actions"
           author_email: "actions@github.com"
 
@@ -38,6 +38,6 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           message: "Updated ublacklist.txt"
-          add: file2.txt
+          add: ublacklist.txt
           author_name: "GitHub Actions"
           author_email: "actions@github.com"
