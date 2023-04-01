@@ -64,3 +64,4 @@
 *://*.dzen.ru/*
 *://*.rubaltic.ru/*
 *://*.sputniknews.ru/*
+*://*.vz.ru/*
