@@ -23,6 +23,7 @@
 *://*.rutube.ru/*
 *://*.rt.com/*
 *://*.россиясегодня.рф/*
+*://*.xn--c1acbl2abdlkab1og.xn--p1ai/*
 *://*.news.rambler.ru/*
 *://*.1prime.ru/*
 *://*.tok.media/*
