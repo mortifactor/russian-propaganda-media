@@ -18,26 +18,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Write changes to file1.txt
+      - name: Replace lines in list.txt with ||line^ and write to adguard.txt
         run: |
-          sed -i 's|.*|*\://\*\.\0/\*|g; s|^|\|\|&^|g' ${{ github.event.inputs.file_path }} > file1.txt
+          sed 's/\(.*\)/||\1^/' list.txt > adguard.txt
 
-      - name: Write changes to file2.txt
+      - name: Replace lines in list.txt with *://*.line/* and write to ublacklist.txt
         run: |
-          sed -i 's|.*|*\://\*\.\0/\*|g' ${{ github.event.inputs.file_path }} > file2.txt
+          sed 's/\(.*\)/\*:\/\/\*\.&\/*/' list.txt > ublacklist.txt
 
-      - name: Commit changes to file1.txt
+      - name: Commit changes to adguard.txt
         uses: EndBug/add-and-commit@v4
         with:
-          message: "Changed text in file1.txt"
+          message: "Updated adguard.txt"
           add: file1.txt
           author_name: "GitHub Actions"
           author_email: "actions@github.com"
 
-      - name: Commit changes to file2.txt
+      - name: Commit changes to ublacklist.txt
         uses: EndBug/add-and-commit@v4
         with:
-          message: "Changed text in file2.txt"
+          message: "Updated ublacklist.txt"
           add: file2.txt
           author_name: "GitHub Actions"
           author_email: "actions@github.com"
