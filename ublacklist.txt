@@ -79,3 +79,6 @@
 *://*.vseruss.com/*
 *://*.r24.news/*
 *://*.russia24h.ru/*
+*://*.vg-news.ru/*
+*://*.mirtesen.ru/*
+*://*.u-f.ru/*
