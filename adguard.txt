@@ -86,3 +86,4 @@
 ||radiokp.ru^
 ||overclockers.ru^
 ||news.mail.ru^
+||rian.com.ua^
