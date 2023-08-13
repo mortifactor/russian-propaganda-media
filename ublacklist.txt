@@ -90,3 +90,4 @@
 *://*.ntv.ru/*
 *://*.mid.ru/*
 *://*.kremlin.ru/*
+*://*.zmaps.ru/*
