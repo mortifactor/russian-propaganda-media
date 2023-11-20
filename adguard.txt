@@ -93,3 +93,5 @@
 ||zmaps.ru^
 ||gorodche.ru^
 ||hibiny.ru^
+||hibiny.com^
+||ngnovoros.ru^
