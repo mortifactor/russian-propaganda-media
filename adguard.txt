@@ -91,3 +91,5 @@
 ||mid.ru^
 ||kremlin.ru^
 ||zmaps.ru^
+||gorodche.ru^
+||hibiny.ru^
