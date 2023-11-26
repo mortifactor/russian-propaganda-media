@@ -99,3 +99,4 @@
 *://*.ruposters.ru/*
 *://*.bigasia.ru/*
 *://*.belta.by/*
+*://*.news.ru/*
