@@ -95,3 +95,7 @@
 ||hibiny.ru^
 ||hibiny.com^
 ||ngnovoros.ru^
+||rapsinews.ru^
+||ruposters.ru^
+||bigasia.ru^
+||belta.by^
