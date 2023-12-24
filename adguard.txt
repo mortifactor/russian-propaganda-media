@@ -103,3 +103,4 @@
 ||rossaprimavera.ru^
 ||pravda.ru^
 ||leninpost.ru^
+||mordovmedia.ru^
