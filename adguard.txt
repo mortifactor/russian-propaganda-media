@@ -110,3 +110,4 @@
 ||statenews.ru^
 ||onf.ru^
 ||moscow-post.su^
+||pnp.ru^
