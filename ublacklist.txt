@@ -126,3 +126,6 @@
 *://*.vm.ru/*
 *://*.kurst-news.net/*
 *://*.tverigrad.ru/*
+*://*.news-kharkov.ru/*
+*://*.bragazeta.ru/*
+*://*.avchernov.ru/*
