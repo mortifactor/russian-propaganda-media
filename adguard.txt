@@ -129,3 +129,4 @@
 ||news-kharkov.ru^
 ||bragazeta.ru^
 ||avchernov.ru^
+||1sn.ru^
