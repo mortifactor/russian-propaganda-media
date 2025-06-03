@@ -137,3 +137,4 @@
 ||trud.ru^
 ||runews24.ru^
 ||smolnarod.ru^
+||podolyaka.ru^
