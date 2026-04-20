@@ -140,3 +140,6 @@
 ||podolyaka.ru^
 ||герой.рус^
 ||xn--c1aemtj.xn--p1acf^
+||dialog.info^
+||anodialog.ru^
+||lapsha.media^
