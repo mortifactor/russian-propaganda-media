@@ -20,11 +20,11 @@ jobs:
 
       - name: Replace lines in list.txt with ||line^ and write to adguard.txt
         run: |
-          sed 's/\(.*\)/||\1^/' list.txt > adguard.txt
+          grep -Ev '^[[:space:]]*(#|//|$)' list.txt | sed 's/.*/||&^/' > adguard.txt
 
       - name: Replace lines in list.txt with *://*.line/* and write to ublacklist.txt
         run: |
-          sed 's/\(.*\)/\*:\/\/\*\.&\/*/' list.txt > ublacklist.txt
+          grep -Ev '^[[:space:]]*(#|//|$)' list.txt | sed 's/.*/\*:\/\/\*\.&\/*/' > ublacklist.txt
 
       - name: Commit changes to adguard.txt
         uses: EndBug/add-and-commit@v4
