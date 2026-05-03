@@ -143,8 +143,6 @@
 ||dialog.info^
 ||anodialog.ru^
 ||lapsha.media^
-||^
-||#https://en.wikipedia.org/wiki/List_of_political_disinformation_website_campaigns_in_Russia^
 ||12com.ru^
 ||20minuts.com^
 ||2memo.ru^
